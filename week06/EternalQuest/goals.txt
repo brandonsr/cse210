@@ -1,0 +1,6 @@
+{
+  "score": 250,
+  "goals": [
+    "ChecklistGoal|Temple Visit|Weekly temple visit|50|3|3|100|False"
+  ]
+}

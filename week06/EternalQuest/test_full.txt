@@ -1,0 +1,13 @@
+1
+3
+Temple Visit
+Go to temple
+50
+10
+500
+2
+1
+1
+2
+1
+3
